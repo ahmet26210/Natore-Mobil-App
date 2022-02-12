@@ -1,6 +1,6 @@
 # natore_project
 
-A new Flutter project.
+Flutter project - Team Project-.
 
 ## Getting Started
 
